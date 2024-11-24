@@ -12,7 +12,7 @@ VideoSizeSet 是一个用于调整视频文件大小的工具。通过指定目�
 ## 安装与使用
 
 ### 下载可执行文件
-您可以从 [Releases](https://github.com/yourusername/VideoSizeSet/releases) 页面下载预编译的可执行文件：
+您可以从 [Releases](https://github.com/ReRokutosei/VideoSizeSet/releases) 页面下载预编译的可执行文件：
 - `VideoSizeSet_amd64.exe`: 包含 FFmpeg 和 FFprobe 的版本。
 - `VideoSizeSet_noffmpeg_amd64.exe`: 不包含 FFmpeg 和 FFprobe 的版本，需要手动安装 FFmpeg 并将其添加到系统 PATH 中。
 
@@ -21,7 +21,7 @@ VideoSizeSet 是一个用于调整视频文件大小的工具。通过指定目�
 
 1. **克隆仓库**
     ```sh
-    git clone https://github.com/yourusername/VideoSizeSet.git
+    git clone https://github.com/ReRokutosei/VideoSizeSet.git
     cd VideoSizeSet
     ```
 
@@ -54,4 +54,4 @@ VideoSizeSet 是一个用于调整视频文件大小的工具。通过指定目�
 - **FFmpeg** (如果选择包含 FFmpeg 的版本)
 
 ## 许可证
-本项目采用 MIT 许可证。更多详情请参见 [LICENSE](LICENSE) 文件。
+本项目采用 MIT 许可证。更多详情请参见 [LICENSE](https://github.com/ReRokutosei/VideoSizeSet/blob/v1.0/LICENSE) 文件。
