@@ -113,3 +113,7 @@ build/
 dist/
 .gitattributes
 .gitattributes
+
+# Ignore FFmpeg and FFprobe binaries
+ffmpeg.exe
+ffprobe.exe
